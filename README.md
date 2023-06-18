@@ -1,8 +1,8 @@
 # Anonique
-Anonique is a non-custodial solution that uses stealth addresses which enables users to receive funds on Mantle Blockchain without revealing receivers real address.
+Anonique is a non-custodial solution that uses stealth addresses which enables users to receive funds on Filecoin Blockchain without revealing receivers real address.
 
 ### 💻 Live Site
-[Anonique Platform](https://anonique-d0ca62.spheron.app/)
+[Anonique Platform deployed on Spheron](https://anonique-d0ca62.spheron.app/)
 
 ### 📝 Project Description
 
@@ -38,12 +38,12 @@ Anonique is a non-custodial solution that uses stealth addresses which enables u
 
 
 ### 📺 Video Demo
-
+[Video Demo](https://www.ethglobal.com/showcase/anonique-qu2uu)
 
 ### ☄️ What's next?
 - Currently, Anonique only supports native coin transfers (FIL). However, adding support for tokens and NFTs would greatly enhance its utility. We are considering implementing relayer nodes to mint and sell notes as tokens (or NFTs) in exchange for covering user fees on transfers.
 - This approach allows users to maintain their anonymity while using note tokens to request relayers to cover fees and pay for transactions. Competition between relayers could help keep transfer fees reasonable.
-- Expanding Anonique to other EVM chains is relatively simple, thanks to Filecoin's compatibility. I'll also explore cross-chain transactions, potentially using a third-party bridge. Additionally, gas optimization in the Registry contract and its interaction with the receiving side can be improved.
+- Expanding Anonique to other EVM chains is relatively simple, thanks to FVM's compatibility. I'll also explore cross-chain transactions, potentially using a third-party bridge. Additionally, gas optimization in the Registry contract and its interaction with the receiving side can be improved.
 - Obtaining a legal opinion on Anonique's regulatory compliance would be beneficial. However, since the Registry is on the blockchain and the code is available on GitHub, funds will remain accessible even if the website is shut down.
 - Future UX improvements include notifications for funds received on new controlled stealth addresses and a mobile app (although the website is mobile-friendly). The possibilities are endless!
 

@@ -1,4 +1,4 @@
-import { faDiscord, faGithub, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faYoutube } from '@fortawesome/free-brands-svg-icons';
 import {
   faArrowRight,
   faArrowTurnDown
@@ -137,7 +137,7 @@ export function Main() {
 
         <div className="footer">
           <a
-            href="https://youtu.be/"
+            href="https://www.ethglobal.com/showcase/anonique-qu2uu"
             rel="noreferrer"
             target="_blank"
           >

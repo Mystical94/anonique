@@ -222,9 +222,9 @@ export function Withdraw() {
       /* .mul(BigNumber.from(3))
         .div(BigNumber.from(2)); */
 
-      console.log(
+      /*console.log(
         `Fee: ${fee.toNumber()}, gasLimit: ${gasLimit.toString()}, gasPrice: ${gasPrice.toString()}`
-      );
+      );*/
 
       const originalBalance = config.request.value as BigNumber;
 
