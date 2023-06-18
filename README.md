@@ -2,7 +2,7 @@
 Anonique is a non-custodial solution that uses stealth addresses which enables users to receive funds on Mantle Blockchain without revealing receivers real address.
 
 ### 💻 Live Site
-[Anonique Platform]()
+[Anonique Platform](https://anonique-d0ca62.spheron.app/)
 
 ### 📝 Project Description
 
@@ -38,7 +38,7 @@ Anonique is a non-custodial solution that uses stealth addresses which enables u
 
 
 ### 📺 Video Demo
-https://youtu.be/
+
 
 ### ☄️ What's next?
 - Currently, Anonique only supports native coin transfers (FIL). However, adding support for tokens and NFTs would greatly enhance its utility. We are considering implementing relayer nodes to mint and sell notes as tokens (or NFTs) in exchange for covering user fees on transfers.
