@@ -49,7 +49,7 @@ https://youtu.be/
 
 
 ### 💪 Deployed Contract Addresses (Filecoin Calibration Testnet)
-- Registry Contract: [0x3c6be25fCA31CAD5c80E49f7663A09D8ad272A80](https://calibration.filfox.info/en/address/0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f)
+- Registry Contract: [0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f](https://calibration.filfox.info/en/address/0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f)
 
 ### 🚫 License
 This repository includes an [unlicensed](http://unlicense.org/) statement.
