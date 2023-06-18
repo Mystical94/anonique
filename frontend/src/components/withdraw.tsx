@@ -363,7 +363,7 @@ export function Withdraw() {
                   className={!isAddressValid ? 'error-input' : ''}
                   spellCheck="false"
                   autoComplete="off"
-                  placeholder="0x481Ab9481fE7D..."
+                  placeholder="0x934Sy5642hT4P..."
                   disabled={isSending}
                   onChange={(e) => {
                     setIsAddressValid(true);

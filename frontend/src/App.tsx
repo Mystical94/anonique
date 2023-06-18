@@ -4,7 +4,7 @@ import './App.css';
 import { Main } from './pages/main';
 
 import { configureChains, createClient, goerli, mainnet, WagmiConfig } from 'wagmi';
-import { fantom, localhost } from 'wagmi/chains';
+import { localhost } from 'wagmi/chains';
 import { filecoinCalibration } from './utils/filecoinTestnet'
 
 import { publicProvider } from 'wagmi/providers/public';
@@ -13,7 +13,7 @@ import { MetaMaskConnector } from 'wagmi/connectors/metaMask';
 import { WalletConnectConnector } from 'wagmi/connectors/walletConnect';
 
 const { chains, provider, webSocketProvider } = configureChains(
-  [fantom, filecoinCalibration, mainnet, goerli, localhost],
+  [filecoinCalibration, mainnet, goerli, localhost],
   [publicProvider()]
 );
 const client = createClient({
